@@ -1,16 +1,17 @@
-## Hi there 👋
+Gobinda Bhattarai
 
-<!--
-**bhattaraicontact-cmd/bhattaraicontact-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer (MERN) · CSE student at PDEU, Gandhinagar
 
-Here are some ideas to get you started:
+3 live client systems: vehicle rental platform, hospital queue management, invoice automation (RPA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Splitora: group expense settlement with graph-based optimization
+https://github.com/bhattaraicontact-cmd/Splitora
+
+HealthCoach: AI agent for healthcare and wellbeing guidance
+
+React · Node.js · Express · MongoDB · PostgreSQL · FastAPI
+
+Open to full-stack internships
+
+bhattarai.contact@gmail.com
+https://www.linkedin.com/in/gobinda-bhattarai/
