@@ -15,4 +15,4 @@ Open to full-stack internships
 
 Email: bhattarai.contact@gmail.com
 
-[LinkedIn] https://www.linkedin.com/in/gobinda-bhattarai/
+LinkedIn: https://www.linkedin.com/in/gobinda-bhattarai/
