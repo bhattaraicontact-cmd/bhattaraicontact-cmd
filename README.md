@@ -14,4 +14,5 @@ React · Node.js · Express · MongoDB · PostgreSQL · FastAPI
 Open to full-stack internships
 
 bhattarai.contact@gmail.com
-https://www.linkedin.com/in/gobinda-bhattarai/
+
+[LinkedIn] https://www.linkedin.com/in/gobinda-bhattarai/
